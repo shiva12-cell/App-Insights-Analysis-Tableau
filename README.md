@@ -9,7 +9,7 @@ An end-to-end data analytics, business intelligence, and executive storytelling 
 
 ---
 
-## 📌 Project Overview & Problem Statement
+##  Project Overview & Problem Statement
 
 Mobile app developers and tech enterprises face intense competition on digital storefronts. To guide product development, marketing, and monetization, this project decodes the quantitative and qualitative drivers of mobile application success:
 
@@ -19,7 +19,7 @@ Mobile app developers and tech enterprises face intense competition on digital s
 
 ---
 
-## 🚀 Key Analytical Findings
+##  Key Analytical Findings
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -45,7 +45,7 @@ Mobile app developers and tech enterprises face intense competition on digital s
 
 ---
 
-## 📊 Tableau Dashboard Suite Architecture
+##  Tableau Dashboard Suite Architecture
 
 The analytical suite is structured across **3 executive dashboards** following the theme specified in `Cleaned_Data/Executive_Theme.json`:
 
@@ -74,7 +74,7 @@ The analytical suite is structured across **3 executive dashboards** following t
 
 ---
 
-## 📁 Repository & Directory Structure
+##  Repository & Directory Structure
 
 ```text
 ├── App_Insights_Executive_Story.pdf           # 5-page publication-grade PDF Executive Presentation
@@ -92,7 +92,7 @@ The analytical suite is structured across **3 executive dashboards** following t
 
 ---
 
-## 📑 25 Challenge Questions Index
+##  25 Challenge Questions Index
 
 All 25 questions from `App Insights (Tableau).pdf` are solved and documented in [`Deliverable_2_Complete_Solution_Guide.md`](./Deliverable_2_Complete_Solution_Guide.md):
 
