@@ -24,6 +24,7 @@ Mobile app developers and tech enterprises face intense competition on digital s
 ## Repository Structure
 .
 ├── Cleaned_Data/
+
 │   ├── Executive_Theme.json                   # Visual design tokens & executive color palette
 
 │   ├── googleplaystore_cleaned.csv            # 9,638 deduplicated apps with parsed numeric fields
