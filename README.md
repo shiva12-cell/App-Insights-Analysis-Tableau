@@ -27,16 +27,27 @@ Mobile app developers and tech enterprises face intense competition on digital s
 │   ├── Executive_Theme.json                   # Visual design tokens & executive color palette
 
 │   ├── googleplaystore_cleaned.csv            # 9,638 deduplicated apps with parsed numeric fields
+
 │   └── googleplaystore_user_reviews_cleaned.csv# 37,427 non-null reviews with sentiment polarity
+
 ├── Raw_Data/
+
 │   ├── googleplaystore.csv                    # Original raw Kaggle apps file (Read-only)
+
 │   └── googleplaystore_user_reviews.csv       # Original raw Kaggle reviews file (Read-only)
+
 ├── Workbook/
+
 │   └── Google Play Store - App Insights Workbook.twbx # Tableau packaged workbook
+
 ├── App_Insights_Executive_Story.pdf           # 5-page publication-grade PDF Executive Presentation
+
 ├── Case_Study_Document.md       # Formal case study, data dictionary & objectives
+
 ├── Complete_Solution_Guide.md   # Complete answers & Tableau steps for all 25 questions
+
 └── README.md                                  # Project overview and navigation
+
 ---
 
 ## Categorized Deep Insights
