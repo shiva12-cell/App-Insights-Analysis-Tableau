@@ -31,6 +31,7 @@ Mobile app developers and tech enterprises face intense competition on digital s
 ├── Raw_Data/
 │   ├── googleplaystore.csv                    # Original raw Kaggle apps file (Read-only)
 │   └── googleplaystore_user_reviews.csv       # Original raw Kaggle reviews file (Read-only)
+├── Dashboard Images
 ├── Workbook/
 │   └── Google Play Store - App Insights Workbook.twbx # Tableau packaged workbook
 ├── App_Insights_Executive_Story.pdf           # 5-page publication-grade PDF Executive Presentation
